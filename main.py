@@ -5,7 +5,7 @@ from scraper.parser import get_field_names, get_rows, parse_row,set_no_of_rows
 from scraper.navigation import go_to_next_page
 from scraper.writer import write_header, write_row
 
-driver = create_browser(headless=False)
+driver = create_browser(headless=True)
 driver.get("https://finance.yahoo.com/markets/stocks/most-active/")
 set_no_of_rows(driver)
 try:
