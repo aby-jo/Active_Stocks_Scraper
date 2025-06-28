@@ -1,0 +1,35 @@
+name: Send Stock Data Email
+
+on:
+  schedule:
+    - cron: '0 22 * * 1-5'  # 4:30 PM EST
+  workflow_dispatch:
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+
+    env:
+      pp: ${{secrets.PP}}
+      smail: ${{secrets.SMAIL}}
+      rmail: ${{secrets.RMAIL}}
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+          
+      - name: Download CSV Artifacts to root
+        uses: actions/download-artifact@v3
+        with:
+          name: stock-csvs
+          path: .
+   
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Sender and Cleanup
+        run: python send_and_clean.py
