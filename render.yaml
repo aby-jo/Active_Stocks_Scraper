@@ -2,20 +2,17 @@ services:
   - type: cron
     name: stock-scraper-job-1
     schedule: "30 14-20 * * 1-5"
-    plan: free
     buildCommand: "pip install --no-cache-dir -r requirements.txt"
     startCommand: "python main.py"
 
   - type: cron
     name: stock-scraper-job-2
     schedule: "0 15-21 * * 1-5"
-    plan: free
     buildCommand: "pip install --no-cache-dir -r requirements.txt"
     startCommand: "python main.py"
 
   - type: cron
     name: send-mail
     schedule: "0 22 * * 1-5"
-    plan: free
     buildCommand: "pip install --no-cache-dir -r requirements.txt"
     startCommand: "python send_and_clean.py"
