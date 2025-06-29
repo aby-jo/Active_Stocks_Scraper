@@ -15,21 +15,27 @@ jobs:
       rmail: ${{secrets.RMAIL}}
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout data-store branch
+        uses: actions/checkout@v3
+        with:
+          ref: data-store
+          fetch-depth: 0
 
+      - name: Restore required files from main branch
+        run: git checkout origin/main --  send_and_clean.py
+          
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.12'
-          
-      - name: Download CSV Artifacts to root
-        uses: actions/download-artifact@v4
-        with:
-          name: stock-csvs
-          path: .
-   
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
+        
       - name: Run Sender and Cleanup
         run: python send_and_clean.py
+
+      - name: Commit and push CSV deletions
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add -u
+          git commit -m "Cleaned up sent CSV files on $(date -u)" || echo "No changes to commit"
+          git push origin data-store
