@@ -21,14 +21,14 @@ jobs:
           ref: data-store
           fetch-depth: 0
 
+      - name: Restore required files from main branch
+        run: git checkout origin/main --  send_and_clean.py
+          
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.12'
-   
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-          
+        
       - name: Run Sender and Cleanup
         run: python send_and_clean.py
 
