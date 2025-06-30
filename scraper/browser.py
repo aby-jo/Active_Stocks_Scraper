@@ -16,6 +16,10 @@ def create_browser(headless=True):
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--disable-gpu")
+    options.add_argument("--window-size=1920,1080")
+    
+    # Use SwiftShader explicitly — required for rendering WebGL in CI
+    # options.add_argument("--enable-unsafe-swiftshader")
 
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     return driver
