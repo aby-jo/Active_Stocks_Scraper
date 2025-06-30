@@ -7,7 +7,7 @@ from scraper.writer import write_header, write_row
 
 driver = create_browser(headless=True)
 driver.set_page_load_timeout(120)
-driver.get("https://finance.yahoo.com/markets/stocks/most-active/")
+driver.get("https://finance.yahoo.com/markets/stocks/most-active/?start=0&count=100")
 set_no_of_rows(driver)
 try:
     fields = get_field_names(driver)
