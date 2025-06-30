@@ -1,0 +1,51 @@
+Symbol,Name,Price,Change,Change %,Volume,Avg Vol (3M),Market Cap,P/E Ratio (TTM),52 Wk Change %
+SOFI,"SoFi Technologies, Inc.",18.60,+1.42,+8.27%,99.68M,65.154M,20.56B,43.26,+167.19%
+NVDA,NVIDIA Corporation,157.79,+0.04,+0.03%,87.895M,249.8M,3.848T,50.74,+26.91%
+NU,Nu Holdings Ltd.,13.90,+0.65,+4.87%,64.525M,61.205M,67.035B,31.58,+7.20%
+HOOD,"Robinhood Markets, Inc.",91.46,+8.43,+10.15%,57.257M,42.274M,80.706B,52.26,+264.33%
+PLTR,Palantir Technologies Inc.,138.27,+7.53,+5.76%,55.56M,99.718M,326.305B,576.13,+405.18%
+LCID,"Lucid Group, Inc.",2.1299,+0.0099,+0.47%,54.965M,127.438M,6.497B,--,-19.70%
+JOBY,"Joby Aviation, Inc.",10.86,+1.42,+15.09%,46.154M,19.378M,9.143B,--,+93.84%
+F,Ford Motor Company,10.74,-0.06,-0.51%,42.571M,116.429M,42.728B,8.60,-15.36%
+TSLA,"Tesla, Inc.",320.26,-3.53,-1.09%,41.24M,123.22M,1.032T,183.00,+54.21%
+SOUN,"SoundHound AI, Inc.",10.65,+0.82,+8.39%,40.489M,29.932M,4.28B,--,+152.70%
+INTC,Intel Corporation,22.47,-0.22,-0.98%,39.451M,91.331M,98.004B,--,-26.43%
+QS,QuantumScape Corporation,6.87,+0.25,+3.77%,34.102M,18.733M,3.84B,--,+35.93%
+SMCI,"Super Micro Computer, Inc.",49.40,+1.82,+3.82%,33.833M,48.258M,29.481B,26.85,-41.43%
+HPE,Hewlett Packard Enterprise Company,20.73,+2.32,+12.60%,32.806M,19.744M,27.202B,19.93,-13.00%
+GRAB,Grab Holdings Limited,5.05,+0.13,+2.65%,31.192M,37.254M,20.827B,505.02,+39.38%
+GOOGL,Alphabet Inc.,177.82,-0.71,-0.39%,29.682M,42.316M,2.156T,19.85,-2.44%
+RGTI,"Rigetti Computing, Inc.",11.85,+0.78,+7.00%,29.031M,48.03M,3.823B,--,"+1,008.11%"
+AMZN,"Amazon.com, Inc.",219.90,-3.40,-1.52%,28.528M,50.409M,2.335T,35.82,+13.24%
+BTG,B2Gold Corp.,3.5800,+0.0500,+1.42%,28.005M,53.061M,4.744B,--,+31.23%
+ACHR,Archer Aviation Inc.,11.04,+0.57,+5.44%,28.205M,33.082M,6.058B,--,+206.14%
+RIOT,"Riot Platforms, Inc.",11.40,+0.85,+8.10%,27.399M,34.036M,4.075B,--,+6.03%
+AMD,"Advanced Micro Devices, Inc.",142.75,-1.06,-0.74%,25.137M,46.935M,231.422B,104.18,-8.80%
+BBD,Banco Bradesco S.A.,3.0850,+0.0550,+1.82%,24.925M,41.858M,29.878B,10.28,+37.73%
+MARA,"MARA Holdings, Inc.",15.68,+0.65,+4.29%,24.68M,43.713M,5.516B,--,-33.38%
+AAPL,Apple Inc.,200.32,-0.76,-0.38%,22.849M,62.515M,2.992T,31.25,-7.23%
+UBER,"Uber Technologies, Inc.",92.59,+1.06,+1.16%,6.409M,22.643M,193.621B,16.22,+28.73%
+FSM,Fortuna Mining Corp.,6.47,+0.11,+1.65%,6.162M,16.589M,1.999B,12.43,+31.40%
+TEM,"Tempus AI, Inc.",66.00,-0.52,-0.78%,6.167M,12.963M,11.426B,--,+99.52%
+WMT,Walmart Inc.,96.71,-0.56,-0.58%,6.153M,20.301M,771.786B,41.33,+44.15%
+EQX,Equinox Gold Corp.,5.74,+0.06,+0.97%,6.029M,14.964M,4.335B,8.08,+9.02%
+KVUE,Kenvue Inc.,20.82,-0.06,-0.31%,6.019M,19.128M,39.963B,37.17,+16.32%
+AEG,Aegon Ltd.,7.22,-0.01,-0.21%,5.917M,12.575M,11.443B,16.80,+15.65%
+IAG,IAMGOLD Corporation,7.30,+0.22,+3.18%,5.908M,17.006M,4.222B,5.00,+93.44%
+PTON,"Peloton Interactive, Inc.",6.76,-0.04,-0.51%,5.785M,14.311M,2.696B,--,+109.23%
+EQT,EQT Corporation,58.67,+0.35,+0.61%,5.786M,8.145M,35.118B,96.17,+58.93%
+SMR,NuScale Power Corporation,39.40,+1.20,+3.14%,5.746M,11.842M,5.255B,--,+249.50%
+TMC,TMC the metals company Inc.,6.59,-0.22,-3.26%,5.726M,11.808M,3.185B,--,+412.03%
+SLB,Schlumberger Limited,33.91,-0.10,-0.29%,5.71M,17.379M,45.811B,11.49,-26.99%
+XOM,Exxon Mobil Corporation,108.20,-1.18,-1.08%,5.568M,18.348M,466.303B,14.35,-4.85%
+GGB,Gerdau S.A.,2.9300,+0.0600,+2.09%,5.477M,13.392M,5.708B,10.46,-11.15%
+GMS,GMS Inc.,108.83,+11.50,+11.82%,5.447M,"528,383",4.142B,37.27,+24.51%
+TSM,Taiwan Semiconductor Manufacturing Company Limited,227.54,-1.03,-0.45%,5.426M,15.332M,1.18T,26.77,+32.64%
+APP,AppLovin Corporation,345.71,+11.93,+3.57%,5.34M,7.255M,116.984B,62.52,+293.52%
+ANET,Arista Networks Inc,102.79,+3.40,+3.42%,5.245M,11.044M,129.096B,43.37,+11.46%
+CMG,"Chipotle Mexican Grill, Inc.",56.19,+1.15,+2.08%,5.204M,13.426M,75.715B,49.73,-10.94%
+KMI,"Kinder Morgan, Inc.",29.54,+0.56,+1.93%,5.199M,13.928M,65.66B,25.47,+46.44%
+CVE,Cenovus Energy Inc.,13.66,+0.01,+0.04%,5.205M,12.781M,24.867B,12.30,-31.03%
+MPW,"Medical Properties Trust, Inc.",4.2650,-0.1950,-4.37%,5.381M,9.33M,2.562B,--,+9.05%
+BABA,Alibaba Group Holding Limited,112.69,-1.39,-1.22%,5.159M,18.601M,269.225B,15.09,+58.05%
+FSLR,"First Solar, Inc.",166.01,+13.87,+9.12%,5.128M,5.047M,17.804B,14.09,-31.69%
