@@ -1,8 +1,8 @@
 name: Send Stock Data Email
 
 on:
-  schedule:
-    - cron: '0 22 * * 1-5'  # 4:30 PM EST
+  # schedule:
+  #   - cron: '0 22 * * 1-5'  # 4:30 PM EST
   workflow_dispatch:
 
 jobs:
