@@ -1,0 +1,35 @@
+Symbol,Name,Price,Change,Change %,Volume,Avg Vol (3M),Market Cap,P/E Ratio (TTM),52 Wk Change %
+NVDA,NVIDIA Corporation,180.00,+6.28,+3.62%,145.565M,192.781M,4.39T,58.25,+72.94%
+NIO,NIO Inc.,4.6000,-0.4100,-8.18%,88.966M,46.325M,9.93B,--,+28.79%
+JOBY,"Joby Aviation, Inc.",20.39,+3.23,+18.82%,79.03M,29.936M,17.158B,--,+237.80%
+COMM,"CommScope Holding Company, Inc.",14.51,+6.72,+86.26%,74.987M,5.36M,3.143B,--,+286.60%
+TSLA,"Tesla, Inc.",309.26,+6.63,+2.19%,77.687M,107.359M,997.503B,182.99,+52.17%
+AAL,American Airlines Group Inc.,11.27,+0.24,+2.18%,69.857M,61.489M,7.44B,13.42,+18.86%
+AMZN,"Amazon.com, Inc.",211.65,-3.10,-1.44%,75.899M,42.482M,2.257T,32.31,+33.37%
+LCID,"Lucid Group, Inc.",2.4100,-0.0100,-0.41%,71.449M,152.562M,7.405B,--,-19.33%
+PLTR,Palantir Technologies Inc.,160.66,+6.39,+4.14%,71.937M,79.288M,379.143B,698.52,+540.39%
+WBD,"Warner Bros. Discovery, Inc.",12.80,-0.07,-0.54%,64.632M,59.032M,31.668B,--,+63.32%
+AEO,"American Eagle Outfitters, Inc.",13.28,+2.54,+23.65%,60.693M,9.53M,2.301B,13.55,-45.70%
+AAPL,Apple Inc.,203.35,+0.97,+0.48%,72.896M,53.581M,3.018T,30.81,-3.29%
+SOFI,"SoFi Technologies, Inc.",21.81,+0.58,+2.73%,57.817M,71.583M,26.089B,43.62,+224.62%
+F,Ford Motor Company,10.95,+0.13,+1.20%,53.074M,89.785M,43.579B,14.04,+11.43%
+AMD,"Advanced Micro Devices, Inc.",176.78,+5.13,+2.99%,51.648M,51.418M,286.631B,129.04,+27.35%
+VALE,Vale S.A.,9.85,+0.14,+1.44%,51.145M,41.651M,42.047B,8.07,-2.41%
+PFE,Pfizer Inc.,23.53,+0.04,+0.17%,50.173M,41.272M,133.777B,17.05,-21.02%
+INTC,Intel Corporation,19.50,+0.19,+0.98%,68.748M,81.354M,85.351B,--,-3.98%
+RGTI,"Rigetti Computing, Inc.",15.76,+1.64,+11.61%,49.288M,53.757M,5.087B,--,"+1,673.87%"
+PCG,PG&E Corporation,15.04,+0.92,+6.52%,51.979M,24.737M,33.056B,13.93,-20.72%
+HOOD,"Robinhood Markets, Inc.",106.37,+6.47,+6.48%,45.944M,44.176M,94.519B,53.99,+508.40%
+RIVN,"Rivian Automotive, Inc.",12.41,+0.03,+0.24%,45.156M,32.471M,14.866B,--,-15.26%
+APLD,Applied Digital Corporation,13.95,+1.43,+11.42%,40.712M,51.383M,3.656B,--,+215.37%
+YMM,Full Truck Alliance Co. Ltd.,10.99,+0.33,+3.10%,40.307M,7.824M,11.494B,21.98,+52.07%
+ITUB,Itaú Unibanco Holding S.A.,6.43,+0.14,+2.28%,33.37M,30.219M,65.018B,9.19,+20.54%
+KEY,KeyCorp,17.83,+0.18,+1.02%,33.527M,18.935M,19.835B,--,+25.00%
+HBAN,Huntington Bancshares Incorporated,16.27,+0.23,+1.43%,32.469M,30.183M,23.857B,12.14,+20.78%
+ACHR,Archer Aviation Inc.,10.43,+0.79,+8.20%,31.966M,39.697M,5.726B,--,+146.55%
+SMCI,"Super Micro Computer, Inc.",58.23,+1.59,+2.81%,31.92M,44.912M,34.753B,31.65,-6.97%
+QBTS,D-Wave Quantum Inc.,17.18,+0.80,+4.88%,30.28M,70.499M,5.368B,--,"+1,802.44%"
+BBD,Banco Bradesco S.A.,2.8100,0.0000,0.00%,31.32M,41.551M,27.318B,8.52,+17.57%
+SNAP,Snap Inc.,9.47,+0.42,+4.64%,28.502M,34.523M,15.932B,--,+3.90%
+HIMS,"Hims & Hers Health, Inc.",63.35,+0.80,+1.28%,27.97M,46.022M,14.18B,93.16,+250.62%
+GOOGL,Alphabet Inc.,195.04,+5.91,+3.12%,31.27M,42.401M,2.363T,20.79,+18.76%
